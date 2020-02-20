@@ -1,0 +1,86 @@
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\Test.exe.config
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\Test.exe
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\Test.pdb
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\obj\Debug\MainWindow.g.cs
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\obj\Debug\App.g.cs
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\obj\Debug\MainWindow.baml
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\obj\Debug\Test.g.resources
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\obj\Debug\Test.exe
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\obj\Debug\Test.pdb
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.Buffers.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.Memory.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.Text.Json.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.ValueTuple.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.Buffers.xml
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.Memory.xml
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.Text.Json.xml
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\System.ValueTuple.xml
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\LiveCharts.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\LiveCharts.pdb
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\LiveCharts.xml
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\ServiceStack.Text.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Test\Test\bin\Debug\ServiceStack.Text.xml
+E:\Test\Test\bin\Debug\Test.exe.config
+E:\Test\Test\bin\Debug\Test.exe
+E:\Test\Test\bin\Debug\Test.pdb
+E:\Test\Test\bin\Debug\LiveCharts.dll
+E:\Test\Test\bin\Debug\LiveCharts.Wpf.dll
+E:\Test\Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Test\Test\bin\Debug\Newtonsoft.Json.dll
+E:\Test\Test\bin\Debug\ServiceStack.Text.dll
+E:\Test\Test\bin\Debug\System.Buffers.dll
+E:\Test\Test\bin\Debug\System.Memory.dll
+E:\Test\Test\bin\Debug\System.Numerics.Vectors.dll
+E:\Test\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Test\Test\bin\Debug\System.Text.Encodings.Web.dll
+E:\Test\Test\bin\Debug\System.Text.Json.dll
+E:\Test\Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Test\Test\bin\Debug\System.ValueTuple.dll
+E:\Test\Test\bin\Debug\LiveCharts.pdb
+E:\Test\Test\bin\Debug\LiveCharts.xml
+E:\Test\Test\bin\Debug\LiveCharts.Wpf.pdb
+E:\Test\Test\bin\Debug\LiveCharts.Wpf.xml
+E:\Test\Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Test\Test\bin\Debug\Newtonsoft.Json.xml
+E:\Test\Test\bin\Debug\ServiceStack.Text.xml
+E:\Test\Test\bin\Debug\System.Buffers.xml
+E:\Test\Test\bin\Debug\System.Memory.xml
+E:\Test\Test\bin\Debug\System.Numerics.Vectors.xml
+E:\Test\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Test\Test\bin\Debug\System.Text.Encodings.Web.xml
+E:\Test\Test\bin\Debug\System.Text.Json.xml
+E:\Test\Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Test\Test\bin\Debug\System.ValueTuple.xml
+E:\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Test\Test\obj\Debug\MainWindow.g.cs
+E:\Test\Test\obj\Debug\App.g.cs
+E:\Test\Test\obj\Debug\Test_MarkupCompile.cache
+E:\Test\Test\obj\Debug\Test_MarkupCompile.lref
+E:\Test\Test\obj\Debug\MainWindow.baml
+E:\Test\Test\obj\Debug\Test.g.resources
+E:\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\Test\Test\obj\Debug\Test.csproj.CopyComplete
+E:\Test\Test\obj\Debug\Test.exe
+E:\Test\Test\obj\Debug\Test.pdb
